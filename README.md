@@ -25,5 +25,5 @@
 
 
 <p align="center">
-  No matter how far you go, remember <code>return;</code>
+  No matter how far you go, remember to <code>return;</code>
 </p>
