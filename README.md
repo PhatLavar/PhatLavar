@@ -3,8 +3,8 @@
 
 ### About Me!
 - 4th-year Computer Science student at HCMUT - VNUHCM
-- Currently working as an AI Developer Intern
-- Getting into **AI, Web, Game Development**
+- Currently working as an AI Developer Intern @ FPT Software
+- Interested in **AI, Web, Game Development**
 - Hobbyist developer — expect random experiments
 - Main Tech Stack:
 
