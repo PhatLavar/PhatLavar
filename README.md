@@ -3,11 +3,7 @@
 
 ### About Me!
 - 4th-year Computer Science student at HCMUT - VNUHCM
-<<<<<<< HEAD
 - Former AI Developer Intern @ **FPT Software** (Jun 2026 - Sep 2026)
-=======
-- Currently working as an AI Developer Intern @ FPT Software
->>>>>>> 31f860dcdcd428dbd656098dded3632df4aeaa96
 - Interested in **AI, Web, Game Development**
 - Hobbyist developer — expect random experiments
 - Main Tech Stack:
